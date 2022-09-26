@@ -1,5 +1,5 @@
 # grium
-ssafy pjt3
+pjt3
 
 ![grium 동작상세](https://user-images.githubusercontent.com/28583368/119314453-bb251380-bcaf-11eb-95dc-dad7b72ad391.jpg)
 ![grium 동작상세2](https://user-images.githubusercontent.com/28583368/119314467-bfe9c780-bcaf-11eb-9463-274c9ec247e6.jpg)
